@@ -2,11 +2,11 @@
 A shadow role involves two people, a shadow and a facilitator. The shadow becomes a kind of understudy of the facilitator’s role. Typically this is a sideways shift (e.g. a Software Developer shadowing a Product Manager).
 
 ## Why are Shadow Roles useful?
-Shadow roles have the following benefits for a team, a facilitator and a shadow.
+Feedback shows that shadow roles are having the following benefits for teams, facilitators, and shadows.
 
-1. Connecting: Builds empathy and relationships with other roles.
-2. Innovating: Looks at problems from new perspectives.
-3. Learning: Develops new skills, career mobility, and leadership talent.
+1. Connecting: Built empathy and relationships across roles.
+2. Innovating: Looked at problems from new perspectives.
+3. Learning: Developed new skills, career mobility, and leadership talent.
 
 ## How are Shadow Roles used?
 Pairs (facilitator and shadow) schedule a recurring fortnightly “shadow session” for 30 minutes which runs for one year. In these sessions, both people typically present a current challenge they can work on together as a pair inside and outside of the session. The best pairs extend their sessions or make them more frequent and when they have to move the session, they always re-organise it within the same day or week.
