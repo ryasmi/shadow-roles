@@ -21,6 +21,15 @@ Prior to the shadow role commencing, it’s helpful to have a 15-minute Intro se
 
 It may help to walkthrough this document during the session to ensure everyone is on the same page.
 
+## Shadow Session Themes
+If pairs get stuck here are some conversation starters that help to reveal things you can discuss during shadow sessions.
+
+1. What’s got your attention and what’s your biggest challenge right now?
+2. What is the pathway to the role and where can you learn more?
+3. What are the boring/repetitive parts and the exciting/forward-thinking parts of the role?
+
+The sessions also become more comfortable and enjoyable when pairs get to know each other personally with questions like “what did you do this weekend?” and “any exciting plans tonight?”.
+
 ## Early Termination
 To reduce the risk in participating in a shadow role, at any time, the shadowing can be terminated by the facilitator or shadow. This usually happens when the facilitator changes role or takes on new responsibilities. In these situations another shadow role may be available.
 
