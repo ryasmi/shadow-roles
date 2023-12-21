@@ -12,6 +12,8 @@ Pairs (facilitator and shadow) schedule a recurring fortnightly “shadow sessio
 
 Outside of shadow sessions, the facilitator can invite the shadow to other relevant meetings and the shadow can take on some of the role’s tasks and responsibilities, particularly when the facilitator is away or needs an extra pair of hands.
 
+Please contact [ryan@shadowroles.com](mailto:ryan@shadowroles.com) with any questions.
+
 ## Introduction Sessions
 Prior to the shadow role commencing, it’s helpful to have a 15-minute Intro session for the facilitator and shadow with the following agenda.
 
