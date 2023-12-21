@@ -9,7 +9,7 @@ Shadow roles have the following benefits for a team, a facilitator and a shadow.
 3. Learning: Develops new skills, career mobility, and leadership talent.
 
 ## How are Shadow Roles used?
-Your pairs (facilitator and shadow) schedule a recurring fortnightly “shadow session” for 30 minutes which runs for one year. In these sessions, both people typically present a current challenge they can work on together as a pair inside and outside of the session. The best pairs extend their sessions or make them more frequent and when they have to move the session, they always re-organise it within the same day or week.
+Pairs (facilitator and shadow) schedule a recurring fortnightly “shadow session” for 30 minutes which runs for one year. In these sessions, both people typically present a current challenge they can work on together as a pair inside and outside of the session. The best pairs extend their sessions or make them more frequent and when they have to move the session, they always re-organise it within the same day or week.
 
 Outside of shadow sessions, the facilitator can invite the shadow to other relevant meetings and the shadow can take on some of the role’s tasks and responsibilities, particularly when the facilitator is away or needs an extra pair of hands.
 
@@ -20,6 +20,8 @@ Prior to the shadow role commencing, it’s helpful to have a 15-minute Intro se
 2. Tell each other why you wanted to participate in this shadow role.
 3. Find a day and time to repeat your fortnightly shadow session.
 
+It may help to walkthrough this document during the session to ensure everyone is on the same page.
+
 ## Early Termination
 To reduce the risk in participating in a shadow role, at any time, the shadowing can be terminated by the facilitator or shadow. This usually happens when the facilitator changes role or takes on new responsibilities. In these situations another shadow role may be available.
 
@@ -27,6 +29,9 @@ To reduce the risk in participating in a shadow role, at any time, the shadowing
 Once every quarter, participants meet in groups for a Retrospective meeting with the goal of helping to improve shadow roles for everyone involved. Participants share what’s going well, what’s not going well, and share what they could try to do differently.
 
 ## End of Year Survey
-At the end of the year, participants receive a survey to gather feedback on the Shadow Roles to improve them for next year and to better understand the achievements & benefits of the initiative so we can encourage others to benefit from the initiative too.
+At the end of the year, participants receive an [End of Year Survey](https://forms.gle/moHjYbx4WQ74LuvQ8) to gather feedback on the Shadow Roles to improve them for next year and to better understand the achievements & benefits of the initiative so we can encourage others to benefit from the initiative too.
+
+## History
+I created Shadow Roles in 2021, inspired by the Shadow Board concept. In first year, I organised the initiative for 1 team with 8 participants, the next year I expanded to 3 teams with 18 participants, and the following year I expanded the initiative to an entire department with 39 participants. The last End of Year Survey was completed by 92% participants with 100% of them saying they either “have already” or “would probably” recommend shadow roles to others.
 
 &copy; 2021-2023 Ryan Smith with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
