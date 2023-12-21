@@ -1,4 +1,3 @@
-# Shadow Roles
 A shadow role involves two people, a shadow and a facilitator. The shadow becomes a kind of understudy of the facilitator’s role. Typically this is a sideways shift (e.g. a Software Developer shadowing a Product Manager).
 
 ## Why are Shadow Roles useful?
@@ -34,4 +33,4 @@ At the end of the year, participants receive an [End of Year Survey](https://for
 ## History
 I created Shadow Roles in 2021, inspired by the Shadow Board concept. In the first year, I organised the initiative for 1 team with 8 participants, the next year I expanded to 3 teams with 18 participants, and the following year I expanded the initiative to an entire department with 39 participants. The last End of Year Survey was completed by 92% participants with 100% of them saying they either “have already” or “would probably” recommend shadow roles to others. I'm now sharing this document to allow other teams and organisations to organise their own Shadow Roles.
 
-&copy; 2021-2023 Ryan Smith with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
+&copy; 2021-2023 [Ryan Smith](https://www.linkedin.com/in/ryasmi/) with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
