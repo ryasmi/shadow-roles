@@ -29,4 +29,4 @@ Once every quarter, participants meet in groups for a Retrospective meeting with
 ## End of Year Survey
 At the end of the year, participants receive a survey to gather feedback on the Shadow Roles to improve them for next year and to better understand the achievements & benefits of the initiative so we can encourage others to benefit from the initiative too.
 
-&copy; 2021-2023 Ryan Smith
+&copy; 2021-2023 Ryan Smith with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
