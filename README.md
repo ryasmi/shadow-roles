@@ -46,4 +46,4 @@ I created Shadow Roles in 2021, inspired by the Shadow Board concept. In the fir
 
 The last End of Year Survey was completed by 92% of participants with 100% of them saying they either “have already” or “would probably” recommend shadow roles to others. I'm now sharing this document to allow other teams and organisations to organise their own Shadow Roles.
 
-&copy; 2021-2023 [Ryan Smith](https://www.linkedin.com/in/ryasmi/) with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
+&copy; 2021-2024 [Ryan Smith](https://www.linkedin.com/in/ryasmi/) with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
