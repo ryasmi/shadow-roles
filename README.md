@@ -35,9 +35,6 @@ The sessions also become more comfortable and enjoyable when pairs get to know e
 ## Early Termination
 To reduce the risk in participating in a shadow role, at any time, the shadowing can be terminated by the facilitator or shadow. This usually happens when the facilitator changes role or takes on new responsibilities. In these situations another shadow role may be available.
 
-## Quarterly Retrospective
-Once every quarter, participants meet in groups for a Retrospective meeting with the goal of helping to improve shadow roles for everyone involved. Participants share what’s going well, what’s not going well, and share what they could try to do differently.
-
 ## End of Year Survey
 At the end of the year, participants receive an [End of Year Survey](https://forms.gle/moHjYbx4WQ74LuvQ8) to gather feedback on the Shadow Roles to improve them for next year and to better understand the achievements & benefits of the initiative so we can encourage others to benefit from the initiative too.
 
