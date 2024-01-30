@@ -39,7 +39,7 @@ To reduce the risk in participating in a shadow role, at any time, the shadowing
 At the end of the year, participants receive an [End of Year Survey](https://forms.gle/moHjYbx4WQ74LuvQ8) to gather feedback on the Shadow Roles to improve them for next year and to better understand the achievements & benefits of the initiative so we can encourage others to benefit from the initiative too.
 
 ## History
-I created Shadow Roles in 2021, inspired by the Shadow Board concept. In the first year, I organised the initiative for 1 engineering team with 8 participants, mostly Software Engineers shadowing a Product Owner or Scrum Master on their team. The next year, I expanded to 3 teams with 18 participants with a wider variety of roles. The following year, I expanded the initiative to the entire engineering department with 39 participants and I'm now experimenting with an expansion outside of the engineering department for the wider organisation.
+I created Shadow Roles in 2021, inspired by the Shadow Board concept. In the first year, I organised the initiative for 1 engineering team with 8 participants, mostly Software Engineers shadowing a Product Owner or Scrum Master on their team. The next year, I expanded to 3 teams with 18 participants with a wider variety of roles. The following year, I expanded the initiative to the entire engineering department with 41 participants and I'm now experimenting with an expansion outside of the engineering department for the wider organisation.
 
 The last End of Year Survey was completed by 92% of participants with 100% of them saying they either “have already” or “would probably” recommend shadow roles to others. I'm now sharing this document to allow other teams and organisations to organise their own Shadow Roles.
 
