@@ -1,5 +1,10 @@
 A shadow role involves two people, a shadow and a facilitator, meeting every fortnight for 30 minutes. The shadow becomes a kind of understudy of the facilitator’s role. It's a bit like mentoring, but typically this is a sideways shift in a team or organisation, rather than mentoring from a more senior team member.
 
+<!-- LikeBtn.com BEGIN -->
+<div><span class="likebtn-wrapper" data-identifier="item_1" data-site_id="65cb3f90943ec9f6278ef38a"></span></div>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
+
 ## Why are Shadow Roles useful?
 Feedback shows that shadow roles are having the following benefits for teams, facilitators, and shadows.
 
@@ -54,10 +59,5 @@ I created Shadow Roles in 2021, inspired by the Shadow Board concept with the he
 In the first year, I organised the initiative for 1 engineering team with 4 shadow roles, mostly Software Engineers shadowing a Product Owner or Scrum Master on their team. The next year, I expanded to 3 teams with 18 participants with a wider variety of roles. The following year, I expanded the initiative to the entire engineering department with 42 participants and I'm now experimenting with an expansion outside of the engineering department for the wider organisation.
 
 Having shared my excitement with a few friends who have started creating their own Shadow Role Initiative, I'm now sharing this document to allow other teams and organisations to organise their own Shadow Roles.
-
-<!-- LikeBtn.com BEGIN -->
-<div><span class="likebtn-wrapper" data-theme="heartcross" data-identifier="item_1" data-dislike_enabled="false"></span></div>
-<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
-<!-- LikeBtn.com END -->
 
 &copy; 2021-2024 [Ryan Smith](https://www.linkedin.com/in/ryasmi/) with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
