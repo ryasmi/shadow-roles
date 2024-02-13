@@ -46,7 +46,7 @@ To reduce the risk in participating in a shadow role, at any time, the shadowing
 ## End of Year Survey
 At the end of the year, participants receive this [End of Year Survey](https://forms.gle/moHjYbx4WQ74LuvQ8) to gather feedback to improve Shadow Roles for next year and to better understand the achievements & benefits of the initiative so we can encourage others to benefit from the initiative too.
 
-To save you time, feel free to use that same form, we'll anaylse the feedback to update this page and you can contact [ryan@shadowroles.com](mailto:ryan@shadowroles.com) to get any feedback we receive from your organisation.
+To save you time, feel free to use that same form, I'll anaylse the feedback to update this page and you can contact [ryan@shadowroles.com](mailto:ryan@shadowroles.com) to get any feedback we receive from your organisation.
 
 ## History
 I created Shadow Roles in 2021, inspired by the Shadow Board concept with the help of a few colleagues willing to give it a try and the support of my manager and my mentor.
