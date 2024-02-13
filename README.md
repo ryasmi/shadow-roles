@@ -8,9 +8,9 @@ Feedback shows that shadow roles are having the following benefits for teams, fa
 4. **Upskilling: Developing new skills, career mobility, and leadership talent.**<br/>Addressing frustration at a lack of creativity and innovation in solving challenges.
 
 ## How are Shadow Roles used?
-Pairs (shadow and facilitator) schedule a recurring fortnightly “shadow session” for 30 minutes which runs for one year. In these sessions, both people typically present a current challenge they can work on together as a pair inside and outside of the session. The best pairs extend their sessions or make them more frequent and when they have to move the session, they always re-organise it within the same day or week.
+Pairs (shadow and facilitator) schedule a recurring fortnightly “shadow session” for 30 minutes which runs for one year. In these sessions, both people typically present a current challenge. It doesn't have to be too urgent or too important, just something they can work on together as a pair inside and outside of the session.
 
-Outside of shadow sessions, the facilitator can invite the shadow to other relevant meetings and the shadow can take on some of the role’s tasks and responsibilities, particularly when the facilitator is away or needs an extra pair of hands.
+The best pairs extend their sessions or make them more frequent and when they have to move the session, they always re-organise it within the same day or week. Outside of shadow sessions, the facilitator can invite the shadow to other relevant meetings and the shadow can take on some of the role’s tasks and responsibilities, particularly when the facilitator is away or needs an extra pair of hands.
 
 Please contact [ryan@shadowroles.com](mailto:ryan@shadowroles.com) with any questions.
 
