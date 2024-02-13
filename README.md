@@ -23,8 +23,8 @@ Please contact [ryan@shadowroles.com](mailto:ryan@shadowroles.com) with any ques
 
 In the last End of Year Survey, completed by 92% of participants, 100% of them said they either “have already” or “would probably” recommend shadow roles to others. 
 
-- Continuous Integration Engineer (Facilitator): "I loved the fact that I don't think there was a single session where we didn't achieve something, and that it wasn't just contained to the scheduled times, we got to a place were we would exchange information or an idea and ask/answer questions on the fly."
-- Software Engineer (Shadow): "I also feel like I have built a great relationship with my facilitator from our time together, and there is much better communication and cohesion between the developer and infrastructure teams compared to a year ago."
+- Continuous Integration Engineer (Facilitator): "I loved the fact that I don't think there was a single session where we didn't achieve something, and that it wasn't just contained to the scheduled times, we got to a place where we would exchange information or an idea and ask/answer questions on the fly."
+- Software Engineer (Shadow): "I feel like I have built a great relationship with my facilitator from our time together, and there is much better communication and cohesion between the developer and infrastructure teams compared to a year ago."
 - Scrum Master (Facilitator): "Understanding, to a greater detail, the impact our practices make on individuals."
 - Software Engineer (Shadow): "Improving the GitHub actions workflow in our application to cut costs; this is an ongoing issue but it's useful to be able to make tangible change to cost by making certain processes more efficient (while not stopping the team from doing awesome things)."
 - Data Engineer (Facilitator): "People shadowing you can challenge why you do things a certain way and give you new ideas."
