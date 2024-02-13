@@ -1,7 +1,7 @@
 A shadow role involves two people, a shadow and a facilitator, meeting every fortnight for 30 minutes. The shadow becomes a kind of understudy of the facilitator’s role. It's a bit like mentoring, but typically this is a sideways shift in a team or organisation, rather than mentoring from a more senior team member.
 
 <!-- LikeBtn.com BEGIN -->
-<div><span class="likebtn-wrapper" data-identifier="item_1" data-site_id="65cb3f90943ec9f6278ef38a"></span></div>
+<div><span class="likebtn-wrapper" data-theme="heartcross" data-identifier="item_1" data-dislike_enabled="false" data-site_id="65cb3f90943ec9f6278ef38a"></span></div>
 <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 <!-- LikeBtn.com END -->
 
