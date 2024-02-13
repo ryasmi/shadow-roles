@@ -55,4 +55,9 @@ In the first year, I organised the initiative for 1 engineering team with 4 shad
 
 Having shared my excitement with a few friends who have started creating their own Shadow Role Initiative, I'm now sharing this document to allow other teams and organisations to organise their own Shadow Roles.
 
+<!-- LikeBtn.com BEGIN -->
+<div><span class="likebtn-wrapper" data-theme="heartcross" data-identifier="item_1" data-dislike_enabled="false"></span></div>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
+
 &copy; 2021-2024 [Ryan Smith](https://www.linkedin.com/in/ryasmi/) with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
