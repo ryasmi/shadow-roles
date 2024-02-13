@@ -3,7 +3,7 @@ A shadow role involves two people, a shadow and a facilitator, meeting every for
 ## Why are Shadow Roles useful?
 Feedback shows that shadow roles are having the following benefits for teams, facilitators, and shadows.
 
-1. **Cultural: Building empathy and relationships across roles.**<br/>Addressing a culture of strained relationships, knowledge silos, or a feeling of "us" and "them".
+1. **Cultural: Building empathy and friendships across roles.**<br/>Addressing a culture of strained relationships, knowledge silos, or a feeling of "us" and "them".
 3. **Innovation: Looking at problems creatively from new perspectives.**<br/>Addressing a feeling that there's a lack of progression and things to learn.
 4. **Upskilling: Developing new skills, career mobility, and leadership talent.**<br/>Addressing frustration at a lack of creativity and innovation in solving challenges.
 
