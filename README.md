@@ -1,10 +1,5 @@
 A shadow role involves two people, a shadow and a facilitator, meeting every fortnight for 30 minutes. The shadow becomes a kind of understudy of the facilitator’s role. It's a bit like mentoring, but typically this is a sideways shift in a team or organisation, rather than mentoring from a more senior team member.
 
-<!-- LikeBtn.com BEGIN -->
-<div><span class="likebtn-wrapper" data-theme="heartcross" data-identifier="item_1" data-dislike_enabled="false" data-site_id="65cb3f90943ec9f6278ef38a"></span></div>
-<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
-<!-- LikeBtn.com END -->
-
 ## Why are Shadow Roles useful?
 Feedback shows that shadow roles are having the following benefits for teams, facilitators, and shadows.
 
@@ -17,7 +12,10 @@ Pairs (shadow and facilitator) schedule a recurring fortnightly “shadow sessio
 
 The best pairs extend their sessions or make them more frequent and when they have to move the session, they always re-organise it within the same day or week. Outside of shadow sessions, the facilitator can invite the shadow to other relevant meetings and the shadow can take on some of the role’s tasks and responsibilities, particularly when the facilitator is away or needs an extra pair of hands.
 
-Please contact [ryan@shadowroles.com](mailto:ryan@shadowroles.com) with any questions.
+<!-- LikeBtn.com BEGIN -->
+<div><span class="likebtn-wrapper" data-theme="heartcross" data-identifier="item_1" data-dislike_enabled="false" data-site_id="65cb3f90943ec9f6278ef38a"></span></div>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
 
 ## What have been some of the highlights?
 
@@ -56,8 +54,10 @@ To save you time, feel free to use that same form, I'll anaylse the feedback to 
 ## History
 I created Shadow Roles in 2021, inspired by the Shadow Board concept with the help of a few colleagues willing to give it a try and the support of my manager and my mentor.
 
-In the first year, I organised the initiative for 1 engineering team with 4 shadow roles, mostly Software Engineers shadowing a Product Owner or Scrum Master on their team, so we've made it work at a small scale. The next year, I expanded to 3 teams with 18 participants with a wider variety of roles. The following year, I expanded the initiative to the entire engineering department with 42 participants and I'm now experimenting with an expansion outside of the engineering department for the wider organisation. So it seems like it can work at a much larger scale too.
+In the first year, I organised the initiative for 1 engineering team with 4 shadow roles, mostly Software Engineers shadowing a Product Owner or Scrum Master on their team, so we've made it work at a small scale. The next year, I expanded to 3 teams with 18 participants with a wider variety of roles. The following year, I expanded the initiative to the entire engineering department with 42 participants and I'm now experimenting with an expansion outside of the engineering department for the wider organisation of 450+ people. So it seems like it can work at a much larger scale too.
 
 Having shared my excitement with a few friends in different industries, they've started creating their own Shadow Role Initiative like this one, so it seems like it can work elsewhere too. I'm now sharing this document to enable other teams and organisations to organise their own Shadow Role Initiative more easily.
+
+If you'd like to talk about this more, please contact me via [ryan@shadowroles.com](mailto:ryan@shadowroles.com).
 
 &copy; 2021-2024 [Ryan Smith](https://www.linkedin.com/in/ryasmi/) with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
