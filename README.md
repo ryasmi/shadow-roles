@@ -49,7 +49,7 @@ To reduce the risk in participating in a shadow role, at any time, the shadowing
 ## End of Year Survey
 At the end of the year, participants receive this [End of Year Survey](https://forms.gle/moHjYbx4WQ74LuvQ8) to gather feedback to improve Shadow Roles for next year and to better understand the achievements & benefits of the initiative so we can encourage others to benefit from the initiative too.
 
-To save you time, feel free to use that same form, I'll anaylse the feedback to update this page and you can contact [ryan@shadowroles.com](mailto:ryan@shadowroles.com) to get any feedback we receive from your organisation.
+To save you time, feel free to use that same form, I'll anaylse the feedback to update this page and you can contact me via [ryan@shadowroles.com](mailto:ryan@shadowroles.com) or [My LinkedIn](https://www.linkedin.com/in/ryasmi/) to get any feedback received from your organisation.
 
 ## History
 I created Shadow Roles in 2021, inspired by the Shadow Board concept with the help of a few colleagues willing to give it a try and the support of my manager and my mentor.
@@ -58,6 +58,6 @@ In the first year, I organised the initiative for 1 engineering team with 4 shad
 
 Having shared my excitement with a few friends in different industries, they've started creating their own Shadow Role Initiative like this one, so it seems like it can work elsewhere too. I'm now sharing this document to enable other teams and organisations to organise their own Shadow Role Initiative more easily.
 
-If you'd like to talk about this more, please contact me via [ryan@shadowroles.com](mailto:ryan@shadowroles.com).
+If you'd like to talk about this more, please contact me via [ryan@shadowroles.com](mailto:ryan@shadowroles.com) or [My LinkedIn](https://www.linkedin.com/in/ryasmi/).
 
 &copy; 2021-2024 [Ryan Smith](https://www.linkedin.com/in/ryasmi/) with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
