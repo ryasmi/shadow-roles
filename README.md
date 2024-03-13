@@ -54,7 +54,7 @@ To save you time, feel free to use that same form, I'll anaylse the feedback to 
 ## History
 I created Shadow Roles in 2021, inspired by the Shadow Board concept with the help of a few colleagues willing to give it a try and the support of my manager and my mentor.
 
-In the first year, I organised the initiative for 1 engineering team with 4 shadow roles, mostly Software Engineers shadowing a Product Owner or Scrum Master on their team, so we've made it work at a small scale. The next year, I expanded to 3 teams with 18 participants with a wider variety of roles. The following year, I expanded the initiative to the entire engineering department with 42 participants and I'm now experimenting with an expansion outside of the engineering department for the wider organisation of 450+ people. So it seems like it can work at a much larger scale too.
+In the first year, I organised the initiative for 1 engineering team with 4 shadow roles, mostly Software Engineers shadowing a Product Owner or Scrum Master on their team, so we've made it work at a small scale. The next year, I expanded to 3 teams with 18 participants with a wider variety of roles. The following year, I expanded the initiative to the entire engineering department with 44 participants and I'm now experimenting with an expansion outside of the engineering department for the wider organisation of 450+ people. So it seems like it can work at a much larger scale too.
 
 Having shared my excitement with a few friends in different industries, they've started creating their own Shadow Role Initiative like this one, so it seems like it can work elsewhere too. I'm now sharing this document to enable other teams and organisations to organise their own Shadow Role Initiative more easily.
 
