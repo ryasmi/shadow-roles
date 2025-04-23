@@ -15,7 +15,7 @@ Feedback shows that shadow roles have the following benefits for shadows, facili
 ## How do Shadow Roles work?
 The facilitator schedules a recurring fortnightly “shadow session” for 30 minutes, which runs for 6 months (e.g. January-June & July-December). In these sessions, both people present a challenge they can work on together as a pair inside and outside of the session.
 
-The best pairs extend their sessions or make them more frequent. When they need to move the session, they always reorganise it within the same day or week. The same pairs also say it’s important to be open to impromptu calls and messages from the shadow/facilitator.
+The best pairs extend their sessions or make them more frequent. When they need to move the session, they always reorganise it within the same day or week. The same pairs also say it’s important to be open to impromptu calls and messages from the shadow/facilitator. Outside of shadow sessions, the facilitator can invite the shadow to relevant meetings, and the shadow can take on some of the role’s tasks and responsibilities, particularly when the facilitator is away or needs an extra pair of hands.
 
 ## How do you terminate a Shadow Role?
 Speak to an Organiser. At any time, the shadowing can be terminated by the facilitator or the shadow, but it's important to give it a chance to succeed. Typically, a termination happens when a facilitator isn’t able to make enough of their time available to the shadow, which usually occurs when the facilitator changes roles or takes on new responsibilities. If another facilitator or shadow is available, the facilitator and/or shadow may be able to continue with different people.
