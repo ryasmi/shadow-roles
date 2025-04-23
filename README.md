@@ -23,7 +23,7 @@ Speak to an Organiser. At any time, the shadowing can be terminated by the facil
 ## What should we discuss in our first Shadow Session?
 In your first session, you can follow this agenda.
 
-1. Briefly walk through this Shadow Role Guide together.
+1. Walk through this Shadow Role Guide together.
 2. Tell each other what you like to do outside work to get to know each other a little better.
 3. Tell each other WHY you wanted to participate in this shadow role.
 4. Find a day and time to repeat your shadow session for 30 minutes, every fortnight for 6 months.
