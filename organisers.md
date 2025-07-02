@@ -1,10 +1,28 @@
 This page provides message templates for organisers.
 
+## Advertisement Messages
+It helps to schedule these messages (e.g. via Slack) one month before a new 6-month cycle starts.
+
+## 1st Message (First Monday)
+> Hi all 👋 We're now collecting Shadow Role preferences for the next 6-month cycle. The form will be open until next Friday.
+>
+> INSERT_PREFERENCE_FORM_LINK
+
+## 2nd Message (Second Monday)
+> Hi all 👋 This week is the last week to fill out the Shadow Role Preference form if you'd like to participate for the next 6-month cycle.
+>
+> INSERT_PREFERENCE_FORM_LINK
+
+### 3rd Message (Second Friday)
+> Hi all 👋 Today is the last day to fill out the Shadow Role Preference form if you want to participate in the next 6-month cycle.
+> 
+> INSERT_PREFERENCE_FORM_LINK
+
 ## Shadow Holding Message
-> Hi INSERT_SHADOW 👋 Thanks for submitting your shadow role preferences for the upcoming 6-month cycle. We’re in the process of trying to sort out a good facilitator for you based on your preferences, I’ll get back in touch soon 👍
+> Hi INSERT_SHADOW 👋 Thanks for submitting your shadow role preferences for the upcoming 6-month cycle. We’re now trying to arrange a good facilitator for you based on your preferences. I’ll get back in touch soon 👍
 
 ## Manager Facilitator Recommendation
-> Hi INSERT_MANAGER 👋 I have the following folks who would like to shadow someone in INSERT_ROLE for the upcoming 6-month cycle. Any recommendations on who they could shadow?
+> Hi INSERT_MANAGER 👋 I have the following folks who'd like to shadow someone in INSERT_ROLE for the upcoming 6-month cycle. Any recommendations on who they could shadow?
 > 
 > …
 > 
@@ -18,7 +36,6 @@ This page provides message templates for organisers.
 > More information on the small commitment this takes and the benefits it has for you both can be found via this link:
 > 
 > https://shadowroles.com
-> 
 > 
 > INSERT_COWORKER in INSERT_DEPARTMENT_OR_TEAM have taken part in this previously, so they might be able to share their experiences with you.
 
