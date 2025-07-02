@@ -3,12 +3,12 @@ This page provides message templates for organisers.
 ## Advertisement Messages
 It helps to schedule these messages (e.g. via Slack) one month before a new 6-month cycle starts.
 
-## 1st Message (First Monday)
+### 1st Message (First Monday)
 > Hi all 👋 We're now collecting Shadow Role preferences for the next 6-month cycle. The form will be open until next Friday.
 >
 > INSERT_PREFERENCE_FORM_LINK
 
-## 2nd Message (Second Monday)
+### 2nd Message (Second Monday)
 > Hi all 👋 This week is the last week to fill out the Shadow Role Preference form if you'd like to participate for the next 6-month cycle.
 >
 > INSERT_PREFERENCE_FORM_LINK
