@@ -37,7 +37,7 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 > 
 > https://shadowroles.com
 > 
-> INSERT_COWORKER in INSERT_DEPARTMENT_OR_TEAM have taken part in this previously, so they might be able to share their experiences with you.
+> You may wish to discuss this with INSERT_MANAGER, as they recommended you as a facilitator. INSERT_COWORKER in INSERT_DEPARTMENT_OR_TEAM have taken part in this previously, so they might be able to share their experiences with you.
 
 ## Existing Facilitator Request
 > Hi INSERT_FACILITATOR 👋 INSERT_SHADOW has asked to shadow a INSERT_ROLE for the upcoming 6-month cycle, would you be happy to facilitate that? I know you've been doing this for INSERT_PREVIOUS_SHADOW this year.
