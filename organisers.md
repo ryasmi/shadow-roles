@@ -8,13 +8,13 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 >
 > INSERT_PREFERENCE_FORM_LINK
 
-### 2nd Message (Second Monday)
-> Hi all 👋 This week is the last week to fill out the Shadow Role Preference form if you'd like to participate for the next 6-month cycle.
+### 2nd Message (First Friday)
+> ⚠️ One more week to fill out the Shadow Role Preference form if you'd like to participate for the next 6-month cycle ⚠️
 >
 > INSERT_PREFERENCE_FORM_LINK
 
 ### 3rd Message (Second Friday)
-> Hi all 👋 Today is the last day to fill out the Shadow Role Preference form if you want to participate in the next 6-month cycle.
+> ⚠️ Today is the last day to fill out the Shadow Role Preference form if you want to participate in the next 6-month cycle ⚠️
 > 
 > INSERT_PREFERENCE_FORM_LINK
 
