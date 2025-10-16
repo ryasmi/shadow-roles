@@ -19,10 +19,10 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 > INSERT_PREFERENCE_FORM_LINK
 
 ## Shadow Holding Message
-> Hi INSERT_SHADOW 👋 Thanks for submitting your shadow role preferences for the upcoming 6-month cycle. We’re now trying to arrange a good facilitator for you based on your preferences. I’ll get back in touch soon 👍
+> Hello 👋 Thanks for submitting your shadow role preferences for the upcoming 6-month cycle. We’re now trying to arrange a good facilitator for you based on your preferences. I’ll get back in touch soon 👍
 
 ## Manager Facilitator Recommendation
-> Hi INSERT_MANAGER 👋 I have the following folks who'd like to shadow someone in INSERT_ROLE for the upcoming 6-month cycle. Any recommendations on who they could shadow?
+> Hello 👋 I have the following folks who'd like to shadow someone in INSERT_ROLE for the upcoming 6-month cycle. Any recommendations on who they could shadow?
 > 
 > …
 > 
@@ -31,7 +31,7 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 > https://shadowroles.com
 
 ## New Facilitator Request
-> Hi INSERT_FACILITATOR 👋 I'm starting to sort out the Shadow Roles for the upcoming 6-month cycle. INSERT_SHADOW has expressed an interest in shadowing an INSERT_ROLE. Would you be happy to facilitate that?
+> Hello 👋 I'm starting to sort out the Shadow Roles for the upcoming 6-month cycle. INSERT_SHADOW has expressed an interest in shadowing an INSERT_ROLE. Would you be happy to facilitate that?
 > 
 > More information on the small commitment this takes and the benefits it has for you both can be found via this link:
 > 
@@ -40,7 +40,7 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 > You may wish to discuss this with INSERT_MANAGER, as they recommended you as a facilitator. INSERT_COWORKER in INSERT_DEPARTMENT_OR_TEAM have taken part in this previously, so they might be able to share their experiences with you.
 
 ## Existing Facilitator Request
-> Hi INSERT_FACILITATOR 👋 INSERT_SHADOW has asked to shadow an INSERT_ROLE for the upcoming 6-month cycle, would you be happy to facilitate that? I know you've previously taken part in a Shadow Role with INSERT_PREVIOUS_SHADOW.
+> Hello 👋 INSERT_SHADOW has asked to shadow an INSERT_ROLE for the upcoming 6-month cycle, would you be happy to facilitate that? I know you've previously taken part in a Shadow Role with INSERT_PREVIOUS_SHADOW.
 
 ## Facilitator Confirmation
 > Amazing! Thank you 🙏 Could you please message each other to set up your first shadow session and follow the agenda in the guide.
@@ -48,7 +48,7 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 > https://www.shadowroles.com/#what-should-we-discuss-in-our-first-shadow-session
 
 ## Shadow Confirmation
-> Hi INSERT_SHADOW 👋 Thanks for submitting your shadow role preferences. INSERT_FACILITATOR has confirmed they’re happy to facilitate you for the INSERT_ROLE role 😊
+> Hello 👋 Thanks for submitting your shadow role preferences. INSERT_FACILITATOR has confirmed they’re happy to facilitate you for the INSERT_ROLE role 😊
 > 
 > Could you please message each other to organise your first shadow session and follow the agenda in the guide.
 > 
