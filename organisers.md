@@ -18,6 +18,11 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 > 
 > INSERT_PREFERENCE_FORM_LINK
 
+### Review Message (First Monday of Last Month)
+> Hi all 👋 Thanks to everyone who has been taking part in Shadow Roles for the current 6-month cycle. To help others who take part in future, could I please ask that, in your final shadow session together, you complete the Shadow Role Review form below?
+> 
+> https://forms.gle/FzZAZBVZhreSdSik6
+
 ## Shadow Holding Message
 > Hello 👋 Thanks for submitting your shadow role preferences for the upcoming 6-month cycle. We’re now trying to arrange a good facilitator for you based on your preferences. I’ll get back in touch soon 👍
 
