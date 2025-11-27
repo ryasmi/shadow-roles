@@ -50,14 +50,14 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 ## Facilitator Confirmation
 > Amazing! Thank you 🙏 Could you please message each other to set up your first shadow session and follow the agenda in the guide.
 > 
-> https://www.shadowroles.com/#what-should-we-discuss-in-our-first-shadow-session
+> https://shadow-roles.ryasmi.com/#what-should-we-discuss-in-our-first-shadow-session
 
 ## Shadow Confirmation
 > Hello 👋 Thanks for submitting your shadow role preferences. INSERT_FACILITATOR has confirmed they’re happy to facilitate you for the INSERT_ROLE role 😊
 > 
 > Could you please message each other to organise your first shadow session and follow the agenda in the guide.
 > 
-> https://www.shadowroles.com/#what-should-we-discuss-in-our-first-shadow-session
+> https://shadow-roles.ryasmi.com/#what-should-we-discuss-in-our-first-shadow-session
 > 
 > Sorry this wasn’t your first preference. We weren’t able to find a facilitator at this time (INSERT_PREFERENCE), but we’ll hopefully find someone for the next cycle of Shadow Roles if you’re still really keen to shadow that role.
 
