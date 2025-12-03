@@ -63,3 +63,10 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 
 ## Shadow Apology
 > Hi INSERT_SHADOW! 👋 Thanks for submitting your shadow role preferences for the upcoming 6-month cycle. After prioritising the roles based on people’s level of interest in shadowing and their preferences, we’re not currently able to find a facilitator for your preferences, sorry! 😔 Please reach out to me directly in 3 months if you’d still be interested and we’ll check if someone might have become available 🤞
+
+## Shadow Manager Notification
+> Hello 👋 Just letting you know that INSERT_SHADOW asked to shadow an INSERT_ROLE for the next 6-month cycle of shadow roles. INSERT_FACILITATOR has agreed to facilitate that for them.
+>
+> More information on the small commitment this takes and the benefits it has for both people and the wider company can be found via this link:
+> 
+> https://shadow-roles.ryasmi.com
