@@ -29,7 +29,7 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 ## Manager Facilitator Recommendation
 > Hello 👋 I have the following folks who'd like to shadow someone in INSERT_ROLE for the upcoming 6-month cycle. Any recommendations on who they could shadow?
 > 
-> …
+> - INSERT_SHADOW - INSERT_SHADOW_MOTIVATION
 > 
 > More information on the small commitment this takes and the benefits it has for both people and the wider company can be found via this link:
 > 
