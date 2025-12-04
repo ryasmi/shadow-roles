@@ -24,10 +24,10 @@ Speak to an Organiser. At any time, the shadowing can be terminated by the facil
 In your first session, you can follow this agenda.
 
 1. Walk through this Shadow Role Guide together.
-2. Tell each other what you like to do outside work to get to know each other a little better.
+2. Tell each other what you like to do outside of work to get to know each other a little better.
 3. Tell each other WHY you wanted to participate in this shadow role.
-4. Find a day and time to repeat your shadow session for 30 minutes, every fortnight for 6 months.
-5. Write down your goal(s)/motivation(s) for the shadow role (1-3 lines max).
+4. Send your shared goal(s)/motivation(s) for the shadow role (1-3 lines max) to an Organiser.
+5. Find a day and time to repeat your shadow session for 30 minutes, every fortnight for 6 months.
 
 ## What should we discuss in regular Shadow Sessions?
 In your regular Shadow Sessions, you can use these conversation starters if you get stuck to help reveal things you can discuss.
