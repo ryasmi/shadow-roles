@@ -47,4 +47,7 @@ Since the Shadow Role initiative began life in a software team, the examples bel
 2. Software Developer shadowing a Scrum Master. During the course of the shadow role, the Software Developer took on the responsibilities of the Scrum Master, leading retrospectives and other meetings. As a result, the team became more autonomous and the Scrum Master enjoyed that the shadow was able to "challenge why [they did] things a certain way and [gave them] new ideas".
 3. QA Analyst shadowing a Software Developer. The software developer's expertise enabled the QA Analyst to automate more test cases, particularly in "hard-to-test" areas, which increased the team's test coverage, their confidence in the tests, and the reliability of their software.
 
+
+_[Organising shadow roles for your team?](/organisers)_
+
 Authored by [Ryan Smith](https://www.linkedin.com/in/ryasmi/) &copy; 2021 with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
