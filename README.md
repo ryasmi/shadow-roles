@@ -7,6 +7,8 @@ Feedback shows that shadow roles have the following benefits for shadows, facili
 2. **Learning: Developing new skills, career mobility, and mentoring abilities.**
 3. **Innovating: Looking at challenges from new perspectives.**
 
+_[Organising shadow roles for your team?](https://shadow-roles.ryasmi.com/organisers)_
+
 <!-- LikeBtn.com BEGIN -->
 <div><span class="likebtn-wrapper" data-theme="heartcross" data-identifier="item_1" data-dislike_enabled="false" data-site_id="65cb3f90943ec9f6278ef38a"></span></div>
 <script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
@@ -46,8 +48,5 @@ Since the Shadow Role initiative began life in a software team, the examples bel
 1. Software Developer shadowing a Data Analyst. Rather than the Software team spending weeks developing new dashboards for their application, these two members worked together to build upon existing tooling in the Data team to build the dashboards in several shadow sessions. Out-of-the-box, the dashboards worked at a large scale with advanced features due to the data warehousing and dashboarding tools in use by the Data team.
 2. Software Developer shadowing a Scrum Master. During the course of the shadow role, the Software Developer took on the responsibilities of the Scrum Master, leading retrospectives and other meetings. As a result, the team became more autonomous and the Scrum Master enjoyed that the shadow was able to "challenge why [they did] things a certain way and [gave them] new ideas".
 3. QA Analyst shadowing a Software Developer. The software developer's expertise enabled the QA Analyst to automate more test cases, particularly in "hard-to-test" areas, which increased the team's test coverage, their confidence in the tests, and the reliability of their software.
-
-
-_[Organising shadow roles for your team?](/organisers)_
 
 Authored by [Ryan Smith](https://www.linkedin.com/in/ryasmi/) &copy; 2021 with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
