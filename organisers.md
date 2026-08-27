@@ -21,7 +21,7 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 ### Review Message (First Monday of Last Month)
 > Hi all 👋 Thanks to everyone who has been taking part in Shadow Roles for the current 6-month cycle. To help others who take part in future, could I please ask that, in your final shadow session together, you complete the Shadow Role Review form below?
 > 
-> https://shadow-roles.ryasmi.com/review-form
+> INSERT_REVIEW_FORM_LINK
 
 ## Matching Messages
 
@@ -33,7 +33,7 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 > 
 > - INSERT_SHADOW - INSERT_SHADOW_MOTIVATION
 > 
-> More information on the small commitment this takes and the benefits it has for both people and the wider company can be found via this link:
+> More information on the small commitment this takes and the benefits it has for both people and the wider organisation can be found via this link:
 > 
 > https://shadow-roles.ryasmi.com
 
@@ -69,13 +69,15 @@ It helps to schedule these messages (e.g. via Slack) one month before a new 6-mo
 ### Step 5 - Facilitator Manager Notification
 > Hello 👋 As INSERT_FACILITATOR's manager, I'm just letting you know that they've agreed to facilitate in the next 6-month cycle of shadow roles for INSERT_SHADOW who asked to shadow an INSERT_ROLE.
 >
-> More information on the small commitment this takes and the benefits it has for both people and the wider company can be found via this link:
+> More information on the small commitment this takes and the benefits it has for both people and the wider organisation can be found via this link:
 > 
 > https://shadow-roles.ryasmi.com
 
 ### Step 6 - Shadow Manager Notification
 > Hello 👋 As INSERT_SHADOW's manager, I'm just letting you know that they've asked to shadow an INSERT_ROLE for the next 6-month cycle of shadow roles. INSERT_FACILITATOR has agreed to facilitate that for them.
 >
-> More information on the small commitment this takes and the benefits it has for both people and the wider company can be found via this link:
+> More information on the small commitment this takes and the benefits it has for both people and the wider organisation can be found via this link:
 > 
 > https://shadow-roles.ryasmi.com
+
+Authored by [Ryan Smith](https://www.linkedin.com/in/ryasmi/) &copy; 2021 with [CC-BY-4.0 license](https://choosealicense.com/licenses/cc-by-4.0/)
